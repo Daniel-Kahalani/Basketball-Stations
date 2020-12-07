@@ -1,6 +1,6 @@
 ﻿# Basketball Stations
 
-Basketball Stations is android VR game I develop using Unity with C# and Google Cardboard XR.
+Basketball Stations is an android VR game I develop using Unity with C# and Google Cardboard XR.
 
 ## Screenshots
 
