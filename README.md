@@ -4,12 +4,12 @@ Basketball Stations is android VR game I develop using Unity with C# and Google 
 
 ## Screenshots
 
-![Start Menu](Screenshots/endGameMenu.png)
+![Start Menu](Screenshots/startMenu.png)
 ![Start Menu](Screenshots/howToPlay.png)
 ![Start Menu](Screenshots/setting.png)
 ![Game](Screenshots/startGame.png)
 ![Game](Screenshots/score.png)
-![Game](Screenshots/startMenu.png)
+![Game](Screenshots/endGameMenu.png)
 ![Game](Screenshots/highScore.png)
 
 ## Built With
